@@ -1,4 +1,4 @@
-# Data-Driven Software Systems Research @ Nokia Bell Labs
+# Software Systems Research @ Nokia Bell Labs
 
 We build next-generation decentralized compute platforms that enable trustworthy collaborations & transactions on data and ML models. We accelerate the programmability of services through pair programming assistants and live programming principles. We create distributed data fabrics for live digital twinning in Industry.
 
